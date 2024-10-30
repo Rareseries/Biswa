@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="https://envs.sh/AMb.jpg">
 </p>
 <h1 align="center">
   <b>PiroAutoFilterBot</b>
